@@ -1,3 +1,3 @@
 # OOP
 
-Building from scratch Breaking Blocks game, with many desighn pattern.
+Building from scratch Breaking Blocks game, with many design pattern.
