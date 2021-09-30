@@ -1,5 +1,5 @@
 /**
- * Ass3Game class.
+ * Ass5Game class.
  * the main class of this assignment.
  */
 public class Ass5Game {
