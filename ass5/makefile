@@ -1,5 +1,3 @@
-# 205812290
-# cohenis
 compile: bin
 	javac -cp biuoop-1.4.jar:src -d bin src/*.java
 run:
